@@ -3,16 +3,72 @@
   "WorkspaceRootPath": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|d:\\intern_learn\\c_sharp\\project\\salesshop\\salesshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A3CEDC-2122-438B-9079-745C1C7FA380}|SalesShop\\SalesShop.csproj|solutionrelative:salesshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\intern.it.vn\\Downloads\\Eshopper\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -25,57 +81,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_SidebarPartial.cshtml",
-              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
-              "RelativeDocumentMoniker": "SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
-              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
-              "RelativeToolTip": "SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAwEkAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T02:52:15.069Z",
+              "WhenOpened": "2024-12-24T03:33:08.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\intern.it.vn\\Downloads\\Eshopper\\index.html",
-              "ToolTip": "C:\\Users\\intern.it.vn\\Downloads\\Eshopper\\index.html",
-              "ViewState": "AgIAANQAAAAAAAAAAAAswCwEAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-24T02:42:21.163Z",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T03:26:08.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesShop\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SalesShop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T02:37:02.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "SalesShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:06:02.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SalesShop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SalesShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T02:36:34.174Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T03:32:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SalesShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:05:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SalesShop\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:06:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SalesShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:05:48.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:26:44.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_SidebarPartial.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T02:52:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\ProductModel.cs",
+              "RelativeToolTip": "SalesShop\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:09:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesShop\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:34:58.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\BrandModel.cs",
+              "RelativeToolTip": "SalesShop\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:09:56.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "SalesShop\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "SalesShop\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:08:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T03:31:15.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "SalesShop\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "SalesShop\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T03:31:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\intern.it.vn\\Downloads\\Eshopper\\index.html",
+              "ToolTip": "C:\\Users\\intern.it.vn\\Downloads\\Eshopper\\index.html",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswCwEAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-24T02:42:21.163Z"
             }
           ]
         }
