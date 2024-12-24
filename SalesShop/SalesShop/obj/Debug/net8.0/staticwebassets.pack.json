@@ -5,16 +5,76 @@
       "PackagePath": "staticwebassets\\SalesShop.6mdi3x8svd.bundle.scp.css"
     },
     {
-      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
       "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
       "Id": "D:\\intern_learn\\c_sharp\\project\\SalesShop\\SalesShop\\wwwroot\\lib\\bootstrap\\LICENSE",

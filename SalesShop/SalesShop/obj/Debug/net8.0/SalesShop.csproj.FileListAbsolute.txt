@@ -32,3 +32,4 @@ D:\intern_learn\c_sharp\project\SalesShop\SalesShop\obj\Debug\net8.0\refint\Sale
 D:\intern_learn\c_sharp\project\SalesShop\SalesShop\obj\Debug\net8.0\SalesShop.pdb
 D:\intern_learn\c_sharp\project\SalesShop\SalesShop\obj\Debug\net8.0\SalesShop.genruntimeconfig.cache
 D:\intern_learn\c_sharp\project\SalesShop\SalesShop\obj\Debug\net8.0\ref\SalesShop.dll
+D:\intern_learn\c_sharp\project\SalesShop\SalesShop\obj\Debug\net8.0\SalesShop.sourcelink.json
